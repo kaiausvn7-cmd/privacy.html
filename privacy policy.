@@ -1,0 +1,127 @@
+
+
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>MOONxMoon | Privacy Policy</title>
+
+<style>
+
+body {
+
+  background: #101018;
+
+  color: #f5f3ff;
+
+  font-family: Arial, sans-serif;
+
+  max-width: 800px;
+
+  margin: auto;
+
+  padding: 30px 20px;
+
+  line-height: 1.7;
+
+}
+
+h1, h2 { color: #a99aff; }
+
+section {
+
+  background: #1c1b29;
+
+  padding: 20px;
+
+  border-radius: 12px;
+
+  margin: 20px 0;
+
+}
+
+</style>
+
+</head>
+
+<body>
+
+<h1>MOONxMoon</h1>
+
+<h2>Privacy Policy</h2>
+
+<p>Last updated: November 2, 2026</p>
+
+<section>
+
+<h2>1. Information We Collect</h2>
+
+<p>MOONxMoon may process Discord user IDs, server IDs, usernames, and command interactions when necessary to provide its features.</p>
+
+</section>
+
+<section>
+
+<h2>2. How Information Is Used</h2>
+
+<p>Information is used to provide moderation, server management, automated responses, and other bot features.</p>
+
+</section>
+
+<section>
+
+<h2>3. Data Sharing</h2>
+
+<p>We do not sell personal information. Information may be processed by service providers required to operate the bot.</p>
+
+</section>
+
+<section>
+
+<h2>4. Data Retention</h2>
+
+<p>Information is retained only as long as necessary for the bot's operation and applicable purposes.</p>
+
+</section>
+
+<section>
+
+<h2>5. Data Requests</h2>
+
+<p>Users may contact the bot owner through the designated support channel to ask about their information or request its deletion.</p>
+
+</section>
+
+<section>
+
+<h2>6. Security</h2>
+
+<p>Reasonable measures are used to protect information, although no online service can guarantee absolute security.</p>
+
+</section>
+
+<section>
+
+<h2>7. Changes</h2>
+
+<p>This policy may be updated. The latest version will be published on this page.</p>
+
+</section>
+
+<section>
+
+<h2>8. Contact</h2>
+
+<p>Contact the MOONxMoon owner through the designated support channel for privacy questions.</p>
+
+</section>
+
+</body>
+
+</html>
